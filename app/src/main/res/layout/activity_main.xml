@@ -14,8 +14,9 @@
         android:id="@+id/imageView"
         android:layout_width="200dp"
         android:layout_height="60dp"
-        app:srcCompat="@drawable/faceBookLogo"
+        app:srcCompat="@drawable/logo"
         android:layout_margin="70dp"/>
+    
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
